@@ -2,7 +2,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace AlynxServicesManagerForUnity.Runtime
+namespace AlynxServicesManager.Runtime
 {
     public static class ServiceLocator
     {

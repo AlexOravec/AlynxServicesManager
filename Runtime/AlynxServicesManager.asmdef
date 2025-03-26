@@ -1,0 +1,16 @@
+{
+    "name": "AlynxServicesManager",
+    "rootNamespace": "AlynxServicesManager",
+    "references": [
+        "GUID:3f2dcdd48329281418ea2f29925fadb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

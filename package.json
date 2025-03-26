@@ -1,7 +1,7 @@
 {
-  "name": "com.alexoravec.alyxnservicesmanagerforunity",
+  "name": "com.alexoravec.alyxnservicesmanager",
   "version": "1.0.0",
-  "displayName": "Alynx Services Manager For Unity",
+  "displayName": "Alynx Services Manager",
   "description": "A simple and easy to use services manager for Unity.",
   "unity": "6000.0",
   "author": {

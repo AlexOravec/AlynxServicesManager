@@ -1,6 +1,6 @@
 ﻿using UnityGameplayFramework.Runtime;
 
-namespace AlynxServicesManagerForUnity.Runtime
+namespace AlynxServicesManager.Runtime
 {
     public abstract class GameManager : Object, IGameService
     {
